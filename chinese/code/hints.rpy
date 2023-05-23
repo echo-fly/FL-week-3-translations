@@ -24,7 +24,7 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Dahlia and Samiya develops - You will invite them over and they will rekindle their relationship by dominating you - Not picking this choice might have dire consequences in the future."
-    new "这个选择很重要，它将改变你与黛丽娅和萨米亚的关系--你将邀请他们过来，他们会通过支配你来让她们重归就好--不选择此项可能会在未来产生可怕的后果。"
+    new "这个选择很重要，它将改变你与黛丽娅和萨米亚的关系--你将邀请她们过来，她们会通过支配你来让她们重归就好--不选择此项可能会在未来产生可怕的后果。"
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Daisy develops - You will go with Daisy to get checked out again, where you two will have some fun while she's dressed as a nurse - Not picking this choice might have dire consequences in the future."
@@ -32,11 +32,11 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Dahlia and Samiya develops - You'll stop them from dominating you and tell them off. - Picking this choice might have dire consequences in the future."
-    new "这个选择很重要，它会改变你与黛丽娅和萨米亚的关系--你会阻止他们支配你并责备他们。不选择此项可能会在未来产生可怕的后果。"
+    new "这个选择很重要，它会改变你与黛丽娅和萨米亚的关系--你会阻止他们支配你并责备他们--不选择此项可能会在未来产生可怕的后果。"
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Dahlia and Samiya develops - You will let them work out their anger and they will become friends again."
-    new "这个选择很重要，它会改变你与黛丽娅和萨米亚的关系--你会让他们把怒火发泄出来，他们会重新成为朋友。"
+    new "这个选择很重要，它会改变你与黛丽娅和萨米亚的关系--你会让她们把怒火发泄出来，她们会重新成为朋友。"
 
     # game/code/hints.rpy:5
     old "You will get more points with this choice, but Samiya and Dahlia won't fully resolve their dispute."
@@ -136,7 +136,7 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with AmRose develops - You will eat her out and she'll obviously be happy about it. Necessary for Ending 9."
-    new "这个选择很重要，它会改变你与爱洛丝的关系发展方式--你会把她吃掉，她显然会很高兴。  此项为结局9的必要条件。"
+    new "这个选择很重要，它会改变你与爱洛丝的关系发展方式--你会把她吃掉，她显然会很高兴。此项为结局9的必要条件。"
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with AmRose develops - You won't eat her out and she'll be miffed about it."
@@ -248,15 +248,15 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "Vanessa worships your cock and balls."
-    new "瓦妮莎崇拜你的鸡巴和蛋蛋。"
+    new "瓦妮莎跪倒在你的鸡巴和蛋蛋面前。"
 
     # game/code/hints.rpy:5
     old "Vanessa worships your cock and balls"
-    new "瓦妮莎用脚给你打飞机"
+    new "瓦妮莎跪倒在你的鸡巴和蛋蛋面前"
 
     # game/code/hints.rpy:5
     old "Vanessa uses her feet to jerk you off"
-    new "瓦妮莎跪倒在你的鸡巴和蛋蛋面前。"
+    new "瓦妮莎用脚给你打飞机"
 
     # game/code/hints.rpy:5
     old "Fuck her ass with choking, slapping, and dirty talk"
@@ -288,7 +288,7 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "You don't allow Lyssa to cum yet."
-    new "你还不允许丽莎射精。"
+    new "你不允许丽莎现在射精。"
 
     # game/code/hints.rpy:5
     old "You let Lyssa cum."
@@ -400,7 +400,7 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "You stop Allison from fucking Vanessa, but doing so makes Allison realize what she was doing, which makes her run away—destroying any chance of reconciliation - This option ends Vanessa's and Allison's paths."
-    new "你阻止艾利森和凡妮莎上床，但这样做会让艾利森从疯狂中恢复清醒，她会逃跑--破坏了和解的所有可能--这个选项会终结凡妮莎和艾利森的路径。"
+    new "你会阻止艾利森和瓦妮莎做爱，但这样做会让艾利森从疯狂中恢复清醒，她会逃跑--破坏了和解的所有可能--这个选项会终结瓦妮莎和艾利森的路径。"
 
     # game/code/hints.rpy:5
     old "You let Allison get through her pent-up frustrations and calm down. Allison then chooses to talk things through with Vanessa."
@@ -428,7 +428,7 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "You won't be able to go with Samiya, Pete, and Dahlia, and your chance for a relationship with them will end. You will still get the option to continue your relationship with Dahlia."
-    new "你不能会和萨米亚，皮特和黛丽娅一起去，你和他们发展关系的机会也就结束了。"
+    new "你不会和萨米亚，皮特和黛丽娅一起去，你和他们发展关系的机会也就结束了。"
 
     # game/code/hints.rpy:5
     old "Interrogate and fuck the Professor."
